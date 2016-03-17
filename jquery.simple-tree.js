@@ -4,7 +4,7 @@
  * (c) phoenixinobi - 2014.
  * https://github.com/phoenixinobi/simpletree/
  */
-
+// test edit
 function InitTree(tree) {
     $(tree).each(function () {
         $(tree).parents("ul").css("padding-left", "20px").css("padding-top", "2px").css("padding-bottom", "2px");
